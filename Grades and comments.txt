@@ -1,0 +1,32 @@
+What is Social Informatics and Why Does it Matter?
+==================================================
+
+Hinne: 3 / 5
+
+Most important keywords: user-centredness, social context, socio-technical systems. Yes, one could say that they are all there but what worries me is the length and under-structuration of the summary meaning that the distinction between crucial and not-that-crucial is incomplete at best (e.g. all the paragraphs beginning from productivity paradox to technological determinism could have been united under a single statement). Had you re-edited your summary and written it into a more concise list of statements with brief comments I would not have hesitated to award maximum points.
+
+
+Find a Social informatics problem analyse it with SI tools
+==========================================================
+
+Hinne: 3 / 5
+
+Quite good overall effort although it misses the point to the extent that the questions are not really interrelated. You could have taken only the first point and fleshed it out into a more nuanced research framework because the puzzle itself is really good and practical. I do have an issue with an expression 'contextual inquiry' because that can mean anything - expert survey, participant observation, focus group, ethnography, discourse analysis... THe choices are endless here. The structure itself leaves something to be desired in that the points are separated but under each heading the specific research questions, methods and hypotheses are not.
+
+
+Analyse the socio-technical system of a project
+===============================================
+
+Hinne: ? / 5
+
+
+
+
+Academic Research Paper on HCI
+==============================
+
+Hinne: ? / 5
+
+
+
+
