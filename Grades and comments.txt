@@ -34,16 +34,22 @@ methods and hypotheses are not.
 Analyse the socio-technical system of a project
 ===============================================
 
-Hinne: ? / 5
+Hinne: 5 / 5
 
-
+Main expectations: many different categories with lots of relevant examples of each, clear structure providing an easy overview of the system, if possible, visualization. In this regard mostly well done. However, I would have liked to see more about (potentially conflicting) user expectations, organizational routines and habits etc. For example, if ÕIS forces the student to give feedback the script that auto-completes the survey illustrates conflicting user preferences.
 
 
 Academic Research Paper on HCI
 ==============================
 
-Hinne: ? / 5
+Hinne: 4 / 5
+
+Main expectations: clear and brief summary of key ideas, good structure, importance of the article has been justified. You have indeed managed to provide an overview of the findings. What I did not see here was answer to the question why the article was necessary in the first place? How did it contribute to the existing knowledge pool? What were its wider implications (if any)? As to your remark about the summary there are couple of answers that come to mind: 1) as any summary involves a selection of ideas it already includes your opinion of what is important - there is no such thing as value-free choice (or that's what some philosophers would claim); 2) it depends on the definition of summary; 3) we can retain the summary part as narrowly defined but still include the reflection requirement in the assignment - so there, you can now call it 'summary-and-opinion'; 4) the assignment was written by the lecturer - I mark my own edits (if any) accordingly ;)
 
 
+Presentation on HCI
+===================
+
+Hinne: ? / 4
 
 
