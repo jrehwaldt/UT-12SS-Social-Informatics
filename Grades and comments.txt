@@ -69,7 +69,7 @@ lecturer - I mark my own edits (if any) accordingly ;)
 Presentation on HCI
 ===================
 
-Hinne: ? / 5
+Hinne: 4 / 5
 
 -
 
@@ -145,15 +145,21 @@ How did they get published? Beats me...
 Questions to Castells
 =====================
 
-Hinne: ? / 5
+Hinne: 3 / 5
 
+1) Good luck with terminological quarreling. Been there myself. A word of warning: in sociology this tends to lead to endless re-reading, say Marx for example, trying to understand what he did or did not mean or could have meant in the light of latter sociological knowledge. I would point out that yes, Castells's formal definition of a network is very wide but his actual characterization is much more specific. And yes, he has been criticized for downplaying the role of network-internal struggles to define the meanings and purposes of the networks. It is good that you noticed it when reading the text for the first time but you could have made the question a bit clearer - by the way, what are the 'capitalist ideals'?
+ 
+2) Well, Castells seems to think so. And usually when we think about hierarchy-network distinction then the latter should have no single centre by definition. But yes, the trouble is that Castells's theory can be applied to societies of the past as historians and anthropologists have actually already done (LaBianca & Scham, "Connectivity in Antiquity", 2006). About the wording - it is a closed question (yes/no) answer. When trying to raise discussion formulations like this are usually avoided (enables to get away with very little).
+ 
+3) Critics would say that it is not necessarily wrong but incomplete. As such it overstates the importance of some factors (IT, knowledge) and underplays some other ones (e.g. in information society theories there is rarely any mention of demographic or ecological problems). Sociology is full of alternatives. Just to name a few: risk society (Beck), late modernity (Giddens), end of history (Fukuyama), world-systems theory (Wallerstein)...
 
 
 Information society dependence on technologies
 ==============================================
 
-Hinne: ? / 5
+Hinne: 0 / 5
 
+-- not submitted --
 
 
 Reflections on the course
